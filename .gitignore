@@ -1,0 +1,4 @@
+.git_ignore/
+builds/
+node_modules/
+.vscode/
