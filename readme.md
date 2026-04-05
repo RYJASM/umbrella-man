@@ -1,5 +1,7 @@
 # Umbrella Man
 
+https://github.com/user-attachments/assets/1b7da30b-0db7-4514-a990-ee0b02a4b8c9
+
 `umbrella-man` is an OpenRCT2 plugin that turns one guest into a roaming umbrella salesman. He wanders the park, walks from umbrella stall to umbrella stall, recolours umbrellas as he goes, and hands out fresh umbrellas to nearby guests.
 
 It is part mascot, part money printer, and part strange little simulation toy. A lot of it is still rough around the edges, but it is already fun to watch in motion.
